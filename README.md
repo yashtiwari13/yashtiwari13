@@ -1,5 +1,5 @@
 Hi I’m yash
-I like building software applications, machine learning models i also like computer science stuff like algorithms, theory of computation discrete math etc. and low level system stuff. 
+I like building software applications, machine learning models i also like computer science stuff like algorithms, theory of computation, discrete math etc. and low level system stuff. 
 I’m currently learning machine learning and web development.
 
 
